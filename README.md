@@ -1,2 +1,6 @@
-# routing-using-react-router-p3
-navigating to different routers in BrowserRouter
+# Routing using react-router Part 3
+
+- Navigating to Specific Blog
+  - using Path Parameters
+- Path Params
+  - match
